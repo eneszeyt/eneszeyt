@@ -1,4 +1,4 @@
-# Enes Zeytin — DevOps Engineer
+# Enes Zeytin — Cloud and DevOps Engineer
 
 DevOps Engineer working on cloud-native systems with a focus on reliable CI/CD pipelines, container orchestration, and system observability.
 
@@ -59,7 +59,6 @@ Beyond tooling, I care about **knowledge sharing and team alignment** — docume
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/enes-zeytin  
-- GitHub: https://github.com/eneszeyt  
+- LinkedIn: https://linkedin.com/in/enes-zeytin   
 - Medium: https://medium.com/@eneszeytin  
 - Email: eneszeytin0@gmail.com
