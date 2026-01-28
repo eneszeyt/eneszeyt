@@ -1,67 +1,68 @@
-# Enes Zeytin — DevOps Engineer
+# Enes Zeytin — DevOps Engineer ⚙️
 
-DevOps Engineer focused on building reliable CI/CD pipelines and operating cloud-native systems with a strong emphasis on automation, stability, and observability.
+I build, automate, and operate **cloud-native systems** with a focus on **CI/CD reliability**, **container orchestration**, and **observability**.
 
-Currently working as a **DevOps Engineer at YegCloud**, contributing to **IBM ACE projects** by managing and improving **CI pipelines on Azure DevOps**.
-
----
-
-## What I Work On
-
-- Designing and maintaining CI/CD pipelines for enterprise integration projects  
-- Automating build, test, and deployment workflows on Azure DevOps  
-- Supporting containerized and cloud-native application delivery  
-- Improving deployability, scalability, and observability of distributed systems  
-- Working closely with development teams to streamline release processes  
+Currently working as a **DevOps Engineer at YegCloud**, contributing to **IBM ACE enterprise integration projects** by managing and improving **CI pipelines on Azure DevOps**.
 
 ---
 
-## Tech Stack
+## 🚀 What I Do
 
-### CI/CD & DevOps
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+- Build and maintain **CI/CD pipelines** for enterprise-grade integration systems  
+- Automate build, test, and deployment workflows on **Azure DevOps** and **GitHub Actions**  
+- Support **containerized workloads** running on Kubernetes  
+- Improve system **observability** using metrics and dashboards  
+- Work closely with developers to reduce friction between code and production  
+
+---
+
+## 🧩 Core Technologies
 
 ### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-### Cloud & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)
+### CI / CD
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
-### Monitoring & Data
+### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### Programming & Scripting
+### Platform & Language
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
-## Selected Focus Areas
+## 🔍 Focus Areas
 
-- Cloud Native Architecture  
+- Cloud-Native Architecture  
 - CI/CD Pipeline Automation  
-- Infrastructure as Code (IaC)  
-- Container Orchestration  
-- Monitoring, Logging & Observability  
-- GitOps Practices  
+- Containerized Application Delivery  
+- Kubernetes-based Environments  
+- Monitoring, Metrics & Dashboards  
+- Operational Stability & Release Confidence  
 
 ---
 
-## How I Approach DevOps
+## 🧠 How I Think About DevOps
 
-I prioritize **clarity over complexity**, explicit trade-offs, and systems that can be easily understood, operated, and improved by others.  
-Automation is not a goal by itself — it is a tool for reliability and speed.
+DevOps, for me, is about **reducing uncertainty** between development and production.  
+I value **simple pipelines**, **explicit trade-offs**, and systems that are easy to observe, operate, and evolve — not clever but fragile setups.
 
 ---
 
-## Contact
+## 📌 Selected Projects
+> Pinned repositories highlight hands-on work with CI/CD, containers, and platform-level tooling.
 
-- LinkedIn: https://linkedin.com/in/enes-zeytin  
-- Medium: https://medium.com/@eneszeytin  
-- Email: eneszeytin0@gmail.com
+---
+
+## 📫 Contact
+
+- LinkedIn → https://linkedin.com/in/enes-zeytin  
+- GitHub → https://github.com/eneszeyt  
+- Medium → https://medium.com/@eneszeytin  
+- Email → eneszeytin0@gmail.com
