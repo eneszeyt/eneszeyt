@@ -1,22 +1,22 @@
-# Enes Zeytin — DevOps Engineer ⚙️
+# Enes Zeytin — DevOps Engineer
 
-I build, automate, and operate **cloud-native systems** with a focus on **CI/CD reliability**, **container orchestration**, and **observability**.
+DevOps Engineer working on cloud-native systems with a focus on reliable CI/CD pipelines, container orchestration, and system observability.
 
 Currently working as a **DevOps Engineer at YegCloud**, contributing to **IBM ACE enterprise integration projects** by managing and improving **CI pipelines on Azure DevOps**.
 
 ---
 
-## 🚀 What I Do
+## What I Work On
 
-- Build and maintain **CI/CD pipelines** for enterprise-grade integration systems  
-- Automate build, test, and deployment workflows on **Azure DevOps** and **GitHub Actions**  
-- Support **containerized workloads** running on Kubernetes  
-- Improve system **observability** using metrics and dashboards  
-- Work closely with developers to reduce friction between code and production  
+- Designing, maintaining, and improving CI/CD pipelines for enterprise integration systems  
+- Automating build, test, and deployment workflows using Azure DevOps and GitHub Actions  
+- Supporting containerized applications running on Kubernetes  
+- Improving system observability through metrics, monitoring, and dashboards  
+- Collaborating closely with development teams to reduce friction between code and production  
 
 ---
 
-## 🧩 Core Technologies
+## Core Technologies
 
 ### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -37,32 +37,29 @@ Currently working as a **DevOps Engineer at YegCloud**, contributing to **IBM AC
 
 ---
 
-## 🔍 Focus Areas
+## Focus Areas
 
 - Cloud-Native Architecture  
 - CI/CD Pipeline Automation  
 - Containerized Application Delivery  
-- Kubernetes-based Environments  
-- Monitoring, Metrics & Dashboards  
-- Operational Stability & Release Confidence  
+- Kubernetes-Based Environments  
+- Monitoring, Metrics, and Observability  
+- Operational Stability and Release Confidence  
 
 ---
 
-## 🧠 How I Think About DevOps
+## How I Approach DevOps
 
-DevOps, for me, is about **reducing uncertainty** between development and production.  
-I value **simple pipelines**, **explicit trade-offs**, and systems that are easy to observe, operate, and evolve — not clever but fragile setups.
+I see DevOps as a practice of **reducing uncertainty** between development and production.
 
----
-
-## 📌 Selected Projects
-> Pinned repositories highlight hands-on work with CI/CD, containers, and platform-level tooling.
+I value clear pipelines, explicit trade-offs, and systems that are easy to understand and operate.  
+Beyond tooling, I care about **knowledge sharing and team alignment** — documenting workflows, sharing lessons learned, and helping teams build confidence in the systems they run.
 
 ---
 
-## 📫 Contact
+## Contact
 
-- LinkedIn → https://linkedin.com/in/enes-zeytin  
-- GitHub → https://github.com/eneszeyt  
-- Medium → https://medium.com/@eneszeytin  
-- Email → eneszeytin0@gmail.com
+- LinkedIn: https://linkedin.com/in/enes-zeytin  
+- GitHub: https://github.com/eneszeyt  
+- Medium: https://medium.com/@eneszeytin  
+- Email: eneszeytin0@gmail.com
